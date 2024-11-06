@@ -222,25 +222,3 @@ body{
     }
     
 }
-/* @media screen and (max-width:600px) {
-    .course-card{
-        flex-grow: 0;
-        flex-basis: 40%;
-    }
-    .categories{
-        display: none;
-    }
-    .navbar__2,.navbar__3{
-        display: none;
-    }
-    .course-card__p{
-        flex-basis: 40%;
-    }
-    .navbar__4{
-        display: block;
-    }
-    .sale-img__desc{
-        top:10px;
-    }
-    
-} */
